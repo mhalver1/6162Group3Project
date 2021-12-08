@@ -14,7 +14,7 @@ We took a lot of time in cleaning and preprocessing the data but we transformed 
 
 We have the sample dataset that we were dependent on and we would like to know the results for a larger version of the dataset.
 
-Try to use the jupyter notebook  with python 3 on the windows platform to analyse the code we have presented.
+Try to use the jupyter notebook with python 3 on the windows platform to analyse the code we have presented.
 Major Packages used: sklearn, matplotlib, pandas
 Keywords: Decision Tree Classifier, Random Forest Classifier, correlation matrix, confusion matrix, clarification report, precision, f1-score
 
